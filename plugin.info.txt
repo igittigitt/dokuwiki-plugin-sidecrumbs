@@ -1,0 +1,7 @@
+base   sidecrumbs
+author Oliver Geisen
+email  oliver@rehkopf-geisen.de
+date   2017-07-11
+name   sidecrumbs plugin
+desc   Show breadcrumbs as list in a sidebar
+url    https://github.com/igittigitt/dokuwiki-plugin-sidecrumbs
